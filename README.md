@@ -42,7 +42,8 @@ ATW800/2 is a recreation board in FPGA, giving HDMI output + 1x Transputer CPU t
 [ST2VGA](https://sidecartridge.com/products/st2vga-atari-st/) & [TenoxVGA](https://www.legacypixels.com/atari/ecl2vga.html) [pcbway](https://www.pcbway.com/project/shareproject/TenoxVGA___ECL2VGA_Adapter_for_Atari_TT_High_Res_Mode.html) [github](https://github.com/tenox7/tenoxvga) = Many Flicker Fixer options for Amiga DB23 port. </br>
 Atari VME-card: ATW800/2 = zz9000 on the Amiga or similat PicassoIV.. </br>
 
-Amiga was aiming at a higher Desktop Workstation Profesional Environment, because [NASA used several Amigas 1000](https://www.youtube.com/watch?v=ZxW3E7UMrKM&t=91s) for Telemetry data display. </br>
+Amiga was aiming at a higher Desktop Workstation Profesional Environment, </br>
+ecause [NASA used several Amigas 1000](https://www.youtube.com/watch?v=ZxW3E7UMrKM&t=91s) for Telemetry data display. </br>
 Atari was focused on "All-In-One" Keyboard sollution & Gaming console. </br>
 
 Atari STE games had nice graphics, maybe similar to Amiga AGA. </br>
