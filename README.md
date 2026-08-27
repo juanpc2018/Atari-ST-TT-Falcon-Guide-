@@ -74,6 +74,9 @@ Amiga 4000 has 2x ROM's at 16-Bits each. </br>
 im surpriced how similar: </br> 
 Out of This world game is in all platforms, almost identical in different machines/OS. </br> 
 
+### Floppy & HDD
+Lorateck in Poland makes a nice external SD drive. </br>
+
 ### Links: </br>
 https://atari.joska.no/snapshots/freemint/cpu/ </br>
 https://freemint.github.io/tos.hyp/en/index.html </br>
