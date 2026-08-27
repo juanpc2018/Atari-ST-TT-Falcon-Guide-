@@ -1,8 +1,10 @@
 # Atari ST TT Falcon Guide 
 v0.0000001 </br>
 
-### Atari vs. Amiga </br>
-were very similar, but with different Key changes. </br>
+### Atari vs. Amiga vs. Apple </br>
+were very similar, but with Key changes. </br>
+different ways of creating a different experience around the Motorola 68K CPU. </br>
+"who builds a better [Exoskeleton](https://en.wikipedia.org/wiki/Exoskeleton)" around it. </br>
 
 Atari ST = Amiga 500, basic model same Motorola 68k 000 CPU, same speed. </br>
 there were different variants / upgrades to the ST,
