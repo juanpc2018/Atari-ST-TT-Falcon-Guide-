@@ -46,28 +46,31 @@ Amiga was aiming at a higher Desktop Workstation Profesional Environment, </br>
 because [NASA used several Amigas 1000](https://www.youtube.com/watch?v=ZxW3E7UMrKM&t=91s) for Telemetry data display. </br>
 Atari was focused on "All-In-One" Keyboard sollution & Gaming console. </br>
 Apple during the Pepsi-CEO era, refused to help NASA, according to NASA. </br>
-NASA never mentions Atari, probably because Atari was rare-in US market, mostly European costumers. </br>
+NASA never mentions Atari, probably because Atari was rare in US market, mostly European costumers. </br>
 with few Musician exeptions because MIDI ports. </br>
 
 Apple had ProTools TDM DSP audio, because the NuBus, also a small MIDI market. </br>
 Atari had the MIDI market, becasue the built-it MIDI ports. </br>
 Amiga had an alternate Midi Tracker market, video Editing market "Toaster", & 3D graphics, like Babilon TV series. </br>
 
-There was a "Pacman" type game for Atari, allowed to interconnect upto 16x Atari ST using midi ports, like a Network. </br>
+There was a "Pacman" type game for Atari, allowed to interconnect upto 16x Atari ST using midi ports, like a Ring Network. </br>
 Was revolutionary. </br>
 similar [DOOM v1.1 for DOS](https://www.youtube.com/watch?v=q3NQQ7bPf6U) allowed 3x PC's for Triple displays, </br>
 option was removed in next versions. </br>
 
 Atari STE games had nice graphics, maybe similar to Amiga AGA. </br>
 
-All Atari had a built-in MIDI I/O ports "Ready for Musicians". </br>
+All Atari was "Ready for Musicians" built-in MIDI I/O ports. </br>
 Amiga can be used with optional 3rd party Serial to Midi dongles. </br>
+Full version of Cubase was never ported to Amiga, only TwentyFour "24" "Lite" version. </br>
+Amiga had Bars & Beats, purchaed by Microsoft when developing DirectX, then released as Download. </br>
+also Octamed & other trackers. </br>
 
 Atari TT has 4x 1MB ROM's runing at 8-Bits each = 32-Bits. </br>
 Amiga 4000 has 2x ROM's at 16-Bits each. </br>
 
 im surpriced how similar is: </br> 
-Out of This world in all game platforms, very small differences, almost identical in different machines. </br> 
+Out of This world game in all platforms, almost identical in different machines. </br> 
 
 Links: </br>
 https://atari.joska.no/snapshots/freemint/cpu/ </br>
