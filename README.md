@@ -25,7 +25,7 @@ Falcon & TT are The Best & Last machines produced by Atari. </br>
 after personal computer era, Atari focused on Gaming consoles, similar to Amiga CD32. </br>
 
 **Differences:**  </br>
-Flacon has Motorola DSP56001, used in many HW Digital Synths & ProTools TDM, </br>
+Falcon has Motorola DSP56001, used in many HW Digital Synths & ProTools TDM, </br>
 but can be used as Graphics co-processor / accelerator accelerating Floating Point math for fractals, etc.. </br>
 TT has Finally a True Next Gen Expansion port: [VMEbus](https://en.wikipedia.org/wiki/VMEbus) </br>
 Falcon CPU can be upgraded similar to Amiga, </br>
