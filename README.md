@@ -9,7 +9,7 @@ different ways of creating a different experience around the Motorola 68K CPU. <
 Atari ST = Amiga 500, basic model same Motorola 68k 000 CPU, same speed. </br>
 there were different variants / upgrades to the ST,
 STF = Floppy, STFM = Floppy + TV Modulator output. </br>
-STE inprooved Blitted Graphics Chip. </br>
+STE improoved Blitted Graphics Chip. </br>
 Mega 1,2,4 = 1MB, 2MB, 4MB "on a Slim Horizontal Desktop case, but Not trully a desktop with expansion slots for cards" </br>
 Mega STE improved Mega. </br>
 [Atari TT 030 (1992)](https://en.wikipedia.org/wiki/Atari_TT030) = Amiga 3000 by date 1990, and some features. </br>
