@@ -61,18 +61,20 @@ option was removed in next versions. </br>
 Atari STE games had nice graphics, maybe similar to Amiga AGA. </br>
 
 All Atari was "Ready for Musicians" built-in MIDI I/O ports. </br>
-Amiga can be used with optional 3rd party Serial to Midi dongles. </br>
-Full version of Cubase was never ported to Amiga, only TwentyFour "24" "Lite" version. </br>
+MIDI ports are the same in All Atari ST / TT / Falcon variants, based on the ACIA M6850p </br>
+
+Amiga can be used with optional 3rd party Serial to Midi dongles, some are very different from others. </br>
+Full version of Cubase was never ported to AmigaOS, only TwentyFour "24" "Lite" version, similar to "16" for C64. </br>
 Amiga had Bars & Beats, purchaed by Microsoft when developing DirectX, then released as Download. </br>
-also Octamed & other trackers. </br>
+Amiga also had Octamed & other trackers. </br>
 
 Atari TT has 4x 1MB ROM's runing at 8-Bits each = 32-Bits. </br>
 Amiga 4000 has 2x ROM's at 16-Bits each. </br>
 
-im surpriced how similar is: </br> 
-Out of This world game in all platforms, almost identical in different machines. </br> 
+im surpriced how similar: </br> 
+Out of This world game is in all platforms, almost identical in different machines/OS. </br> 
 
-Links: </br>
+### Links: </br>
 https://atari.joska.no/snapshots/freemint/cpu/ </br>
 https://freemint.github.io/tos.hyp/en/index.html </br>
 https://gtello.pages-perso.free.fr/downld_e.htm </br>
@@ -82,27 +84,24 @@ https://www.best-electronics-ca.com/tt030.html </br>
 https://github.com/AtarianComputing/Atari-TT030-PCB </br>
 
 ### HW inside
-
 https://www.atarimuseum.de/tt030.htm </br>
 https://www.fplanque.com/tech/retro/atari/atari-falcon-inside-and-out/ </br>
 
 ### CT060 CPU accelerator
-
 counterpart of several Amiga variants. </br>
 https://gtello.pages-perso.free.fr/falcon_e.htm </br>
 
 ### Programming
-Cross-compile Tutorial for TOS: </br>
-https://web.archive.org/web/20180425224527/http://vincent.riviere.free.fr/soft/m68k-atari-mint/ </br>
-by the Develper of "BadMood" Doom port for Atari Falcon </br>
-https://web.archive.org/web/20160318230323if_/http://leonik.net/dml/files/BM307.ZIP </br>
-https://web.archive.org/web/20160318235752if_/http://leonik.net/dml/files/BM307SRC.ZIP </br>
+[Cross-compile Tutorial for TOS](https://web.archive.org/web/20180425224527/http://vincent.riviere.free.fr/soft/m68k-atari-mint/) </br>
+by Develper of ["BadMood" Doom version](https://web.archive.org/web/20160318230323if_/http://leonik.net/dml/files/BM307.ZIP) for Atari [Falcon](https://web.archive.org/web/20160318235752if_/http://leonik.net/dml/files/BM307SRC.ZIP) </br>
+based on gcc ported tools. </br>
+Cygwin for Cross-compiling [TOS on Windows](https://web.archive.org/web/20180425100450/http://www.cygwin.com/) </br>
 
 **Files**
-https://web.archive.org/web/*/http://vincent.riviere.free.fr/soft/m68k-atari-mint/* </br>
+[M68K Atari mint](https://web.archive.org/web/*/http://vincent.riviere.free.fr/soft/m68k-atari-mint/*) </br>
 
 **Documents**
-https://web.archive.org/web/20171016150036/http://dev-docs.atariforge.org/ </br>
+[dev-docs.atariforge.org](https://web.archive.org/web/20171016150036/http://dev-docs.atariforge.org/) </br>
 
 ### Forums
 https://web.archive.org/web/20180418125841/http://www.atari-forum.com/ </br>
@@ -113,7 +112,6 @@ https://web.archive.org/web/20180427081345/http://vincent.riviere.free.fr/soft/m
 AFROS </br>
 https://web.archive.org/web/20170825121839/http://aranym.sourceforge.net/afros.html </br>
 
-Cywin for Cross-compiling TOS on Windows </br>
-https://web.archive.org/web/20180425100450/http://www.cygwin.com/ </br>
+
 
 
