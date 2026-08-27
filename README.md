@@ -60,10 +60,10 @@ option was removed in next versions. </br>
 
 Atari STE games had nice graphics, maybe similar to Amiga AGA. </br>
 
-All Atari was "Ready for Musicians" built-in MIDI I/O ports. </br>
-MIDI ports are the same in All Atari ST / TT / Falcon variants, based on the ACIA M6850p </br>
+Atari built-in MIDI I/O ports was "Ready for Musicians" </br>
+MIDI ports are the same in All Atari ST / Mega / TT / Falcon variants, based on the ACIA M6850p </br>
 
-Amiga can be used with optional 3rd party Serial to Midi dongles, some are very different from others. </br>
+Amiga has MIDI with optional 3rd party Serial to Midi dongles, some are very different from others. </br>
 Full version of Cubase was never ported to AmigaOS, only TwentyFour "24" "Lite" version, similar to "16" for C64. </br>
 Amiga had Bars & Beats, purchaed by Microsoft when developing DirectX, then released as Download. </br>
 Amiga also had Octamed & other trackers. </br>
