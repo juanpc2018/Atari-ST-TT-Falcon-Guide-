@@ -2,18 +2,18 @@
 v0.0000001 </br>
 
 ### Atari vs. Amiga vs. Apple </br>
-were very similar, but with Key changes. </br>
+were very similar, but... </br>
 different ways of creating a different experience around the Motorola 68K CPU. </br>
 "who builds a better [Exoskeleton](https://en.wikipedia.org/wiki/Exoskeleton) around it." </br>
 
 Atari ST = Amiga 500, basic model same Motorola 68k 000 CPU, same speed. </br>
 there were different variants / upgrades to the ST,
 STF = Floppy, STFM = Floppy + TV Modulator output. </br>
-STE improved Blitted Graphics Chip. </br>
-Mega ST 1,2,4 = 1MB, 2MB, 4MB "on a Slim Horizontal Desktop case, but Not really a desktop with expansion slots for cards" </br>
+STE improved [Blitter](https://en.wikipedia.org/wiki/Blitter) Graphics Chip. </br>
+Mega ST 1,2,4 = 1MB, 2MB, 4MB "on a Slim Horizontal Desktop case, but Not really a desktop, with expansion slots for cards" </br>
 Mega STE improved MegaST. </br>
 [Atari TT 030 (1992)](https://en.wikipedia.org/wiki/Atari_TT030) = Amiga 3000 by date 1990, and some features. </br>
-[Atari Falcon 030 (1992)](https://en.wikipedia.org/wiki/Atari_Falcon) = Amiga 1200 </br>
+[Atari Falcon 030 (1992)](https://en.wikipedia.org/wiki/Atari_Falcon) = Amiga 1200 (1992) </br>
 
 some differences: </br>
 STe versions had Blitter chip to accelerate graphics, </br>
