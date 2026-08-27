@@ -43,15 +43,19 @@ ATW800/2 is a recreation board in FPGA, giving HDMI output + 1x Transputer CPU t
 Atari VME-card: ATW800/2 = zz9000 on the Amiga or similat PicassoIV.. </br>
 
 Amiga was aiming at a higher Desktop Workstation Profesional Environment, </br>
-ecause [NASA used several Amigas 1000](https://www.youtube.com/watch?v=ZxW3E7UMrKM&t=91s) for Telemetry data display. </br>
+because [NASA used several Amigas 1000](https://www.youtube.com/watch?v=ZxW3E7UMrKM&t=91s) for Telemetry data display. </br>
 Atari was focused on "All-In-One" Keyboard sollution & Gaming console. </br>
 Apple during the Pepsi-CEO era, refused to help NASA, according to NASA. </br>
-NASA never mentions Atari, probably because Atari was mostly European market / costumers. </br>
-few exeptions because MIDI ports. </br>
+NASA never mentions Atari, probably because Atari was rare-in US market, mostly European costumers. </br>
+with few Musician exeptions because MIDI ports. </br>
 
-There was a "Pacman" type game for Atari, that allowed to interconnect upto 16x Atari ST using midi ports, like a Network. </br>
+Apple had ProTools TDM DSP audio, because the NuBus, also a small MIDI market. </br>
+Atari had the MIDI market, becasue the built-it MIDI ports. </br>
+Amiga had an alternate Midi Tracker market, video Editing market "Toaster", & 3D graphics, like Babilon TV series. </br>
+
+There was a "Pacman" type game for Atari, allowed to interconnect upto 16x Atari ST using midi ports, like a Network. </br>
 Was revolutionary. </br>
-similar DOOM v1.1 for DOS allowed 3 machines for Quad / Triple displays, </br>
+similar [DOOM v1.1 for DOS](https://www.youtube.com/watch?v=q3NQQ7bPf6U) allowed 3x PC's for Triple displays, </br>
 option was removed in next versions. </br>
 
 Atari STE games had nice graphics, maybe similar to Amiga AGA. </br>
