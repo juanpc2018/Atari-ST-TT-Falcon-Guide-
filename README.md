@@ -90,7 +90,7 @@ https://github.com/AtarianComputing/Atari-TT030-PCB </br>
 https://www.atarimuseum.de/tt030.htm </br>
 https://www.fplanque.com/tech/retro/atari/atari-falcon-inside-and-out/ </br>
 
-### CT060 CPU accelerator
+### CT60e CPU accelerator
 counterpart of Amiga variants. </br>
 https://gtello.pages-perso.free.fr/falcon_e.htm </br>
 
@@ -115,6 +115,38 @@ https://web.archive.org/web/20180427081345/http://vincent.riviere.free.fr/soft/m
 AFROS </br>
 https://web.archive.org/web/20170825121839/http://aranym.sourceforge.net/afros.html </br>
 
+### Problems
+
+There are many different [Revisions](https://mikrosk.github.io/clockpatch/history.html) of the Atari Falcon 030, but all had the same problem </br>
+that means requires a different sollution for the same problem to be compatible with each revision. </br>
+and some sollutions wont work is all revisions. </br>
+
+The main problem most people report is the clock generator circuit: </br>
+https://github.com/arananet/clockpatch </br>
+https://mikrosk.github.io/clockpatch/ </br>
+
+https://docs.dev-docs.org/htm/search.php?find=Falcon030+Service+Guide </br>
 
 
+### MODS
 
+The most interesting mod, is a physical switch to change Video modes, Color / Mono </br>
+https://info-coach.fr/atari/hardware/interfaces.php#multisync_switch </br>
+https://github.com/arananet/ubeswitch </br>
+
+### Stores
+https://web.archive.org/web/*/https://www.exxoshost.co.uk/atari/store2/ </br>
+https://web.archive.org/web/*/https://www.exxoshost.co.uk/atari/last/falcpatch/index.htm </br>
+https://web.archive.org/web/*/https://arananet.net/pedidos </br>
+
+**Amiga** </br>
+https://arananet.net/2027/ </br>
+https://arananet.net/2027/index.html </br>
+https://arananet.net/bruslii/index.html </br>
+https://arananet.net/legado/index.html </br>
+https://arananet.net/retrowars/index.html </br>
+https://arananet.net/tnzk/index.html </br>
+
+C64 part locator </br>
+https://arananet.net/c64pl/ </br>
+https://arananet.net/c64pl/index.html </br>
