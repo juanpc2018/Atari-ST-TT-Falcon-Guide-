@@ -25,6 +25,7 @@ Mega STe, Falcon & TT were The Best & Last machines produced by Atari. </br>
 after personal computer era, Atari focused on Gaming consoles, similar to Amiga CD32. </br>
 
 **Differences:**  </br>
+TT & Falcon have 68K 030 CPU, all other Atari ST variants have basic 68K 000 CPU. </br>
 Falcon has Motorola DSP56001, used in many HW Digital Synths & ProTools TDM, </br>
 but can be used as Graphics co-processor / accelerator for Floating Point math: fractals, 3D render, etc.. </br>
 TT has Finally a True Next Gen Expansion port: [VMEbus](https://en.wikipedia.org/wiki/VMEbus) </br>
