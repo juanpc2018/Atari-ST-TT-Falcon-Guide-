@@ -76,7 +76,7 @@ im surpriced how similar: </br>
 Out of This world game is in all platforms, almost identical in different machines/OS. </br> 
 
 ### Floppy & HDD
-Lorateck in Poland makes a nice external Ultra SD drive. </br>
+Lotharek in Poland makes a nice external [Ultra SD](https://lotharek.pl/products.php?id=15) drive. </br>
 
 ### Links: </br>
 https://atari.joska.no/snapshots/freemint/cpu/ </br>
