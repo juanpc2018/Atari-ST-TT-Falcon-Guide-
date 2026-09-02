@@ -128,7 +128,6 @@ https://mikrosk.github.io/clockpatch/ </br>
 
 https://docs.dev-docs.org/htm/search.php?find=Falcon030+Service+Guide </br>
 
-
 ### MODS
 
 The most interesting mod, is a physical switch to change Video modes, Color / Mono </br>
@@ -139,6 +138,11 @@ https://github.com/arananet/ubeswitch </br>
 https://web.archive.org/web/*/https://www.exxoshost.co.uk/atari/store2/ </br>
 https://web.archive.org/web/*/https://www.exxoshost.co.uk/atari/last/falcpatch/index.htm </br>
 https://web.archive.org/web/*/https://arananet.net/pedidos </br>
+
+### Re-Creations
+
+[Atari STFM]() Exxos </br>
+[Re-Falcon](https://re-falcon.com/project) </br>
 
 -----------
 
