@@ -170,6 +170,7 @@ https://retrobox.it/pcb-explorer/ </br>
 Increased efficiency / typing speed: </br>
 [Double Space Bar / Giant Shift](https://www.youtube.com/watch?v=uFMAToFtGgY&t=2423s) </br>
 [Wireless Copy & Paste: Windows -> C64](https://www.youtube.com/watch?v=DmLF-8p1xcc&t=1682s) | [Indiegogo](https://www.indiegogo.com/en/projects/cbmstuff/keyboard-for-your-commodore-computer) |  [cbmstuff.com](https://www.cbmstuff.com/index.php?route=product/category&path=87) </br>
+[LumaFix](https://www.youtube.com/watch?v=OPDlku6yv-g&t=326s) </br>
 
 **MUSIC / MIDI** </br>
 CynthCart </br>
