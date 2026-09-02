@@ -118,8 +118,8 @@ https://web.archive.org/web/20170825121839/http://aranym.sourceforge.net/afros.h
 
 ### Problems
 
-There are many different [Revisions](https://mikrosk.github.io/clockpatch/history.html) of the Atari Falcon 030, but all had the same problem </br>
-that means requires a different sollution for the same problem to be compatible with each revision. </br>
+Falcon has many [Revisions](https://mikrosk.github.io/clockpatch/history.html) of the Atari Falcon 030, but all had the same problem </br>
+that means: requires a different sollution for the same problem to be compatible with each revision. </br>
 and some sollutions wont work is all revisions. </br>
 
 The main problem most people report is the clock generator circuit: </br>
@@ -127,6 +127,8 @@ https://github.com/arananet/clockpatch </br>
 https://mikrosk.github.io/clockpatch/ </br>
 
 https://docs.dev-docs.org/htm/search.php?find=Falcon030+Service+Guide </br>
+
+[Reset issue p1](https://www.youtube.com/watch?v=nUv_kSmOTSc) [p2](https://www.youtube.com/watch?v=HwEAPqJrZ_c) </br>
 
 ### MODS
 
