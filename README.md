@@ -165,3 +165,8 @@ https://arananet.net/c64pl/index.html </br>
 https://store.go4retro.com/commodore/jiffydos-c64-ultimate-rom-overlay-image-pro-pack/ </br>
 https://retrocomp.cz/produkt?id=2 </br>
 https://retrobox.it/pcb-explorer/ </br>
+
+**MODS**
+Increased efficiency / typing speed: </br>
+[Double Space Bar / Giant Shift](https://www.youtube.com/watch?v=uFMAToFtGgY&t=2423s) </br>
+[Wireless Copy & Paste: Windows -> C64](https://www.youtube.com/watch?v=DmLF-8p1xcc&t=1682s) | [Indiegogo](https://www.indiegogo.com/en/projects/cbmstuff/keyboard-for-your-commodore-computer) |  [cbmstuff.com](https://www.cbmstuff.com/index.php?route=product/category&path=87) </br>
