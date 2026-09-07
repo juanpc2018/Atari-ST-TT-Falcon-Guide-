@@ -165,10 +165,10 @@ https://arananet.net/c64pl/index.html </br>
 https://retrocomp.cz/produkt?id=2 </br>
 https://retrobox.it/pcb-explorer/ </br>
 
-**Faster ROM's**
+**Faster ROM's** </br>
 The Goal is to Load C64 Software faster. </br>
-[DoplhinDOS v2](https://rr.pokefinder.org/wiki/Dolphin_DOS) compatible with Ultimate64 </bt>
-[JiffyDOS Pro](https://store.go4retro.com/commodore/jiffydos-c64-ultimate-rom-overlay-image-pro-pack/) </br>)
+[DoplhinDOS v2](https://rr.pokefinder.org/wiki/Dolphin_DOS) compatible with Ultimate64 </br>
+[JiffyDOS Pro](https://store.go4retro.com/commodore/jiffydos-c64-ultimate-rom-overlay-image-pro-pack/) </br>
 Installer Turorial for [Ultimate64](https://www.youtube.com/watch?v=-Xj7Jf5R5us&t=445s) </br>
 There are Cartridges like EasyFlash3 that allow to load ROM's without internal modification. </br>
 
