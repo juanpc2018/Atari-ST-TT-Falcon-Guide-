@@ -152,7 +152,10 @@ https://web.archive.org/web/*/https://arananet.net/pedidos </br>
 ### FalconSpeed 286 Emulator
 Video [Tutorial](https://www.youtube.com/watch?v=ysBXbYULWio) </br>
 [SCH](https://reversing.pl/atari32bit/falconspeed/falconspeed.html) </br>
-No PAL's, Only pin compatible GAL's </br>
+No PAL's, </br>
+Only pin compatible GAL's: </br>
+GAL16V8D </br>
+GAL20V8QS-15QVC </br>
 
 -----------
 
