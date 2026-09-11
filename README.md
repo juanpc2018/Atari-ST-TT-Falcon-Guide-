@@ -148,6 +148,7 @@ https://web.archive.org/web/*/https://arananet.net/pedidos </br>
 
 [Atari STFM](https://www.exxoshost.co.uk/atari/last/storenew/) by Exxos </br>
 [Re-Falcon](https://re-falcon.com/project) [YT](https://www.youtube.com/@eskwadrat/videos) </br>
+[Git](https://github.com/eskwadrat/ReFalcon) </br>
 
 ### FalconSpeed 286 Emulator
 Video [Tutorial](https://www.youtube.com/watch?v=ysBXbYULWio) </br>
@@ -156,6 +157,10 @@ No PAL's, </br>
 Only pin compatible GAL's: </br>
 GAL16V8D </br>
 GAL20V8QS-15QVC </br>
+
+### [Atari Quake 1.03](https://github.com/mikrosk/quake/releases) </br>
+
+other DIY [projects.](https://github.com/dh219) </br>
 
 -----------
 
