@@ -149,6 +149,11 @@ https://web.archive.org/web/*/https://arananet.net/pedidos </br>
 [Atari STFM](https://www.exxoshost.co.uk/atari/last/storenew/) by Exxos </br>
 [Re-Falcon](https://re-falcon.com/project) [YT](https://www.youtube.com/@eskwadrat/videos) </br>
 
+### FalconSpeed 286 Emulator
+Video [Tutorial](https://www.youtube.com/watch?v=ysBXbYULWio) </br>
+[SCH](https://reversing.pl/atari32bit/falconspeed/falconspeed.html) </br>
+No PAL's, Only pin compatible GAL's </br>
+
 -----------
 
 **Amiga** </br>
