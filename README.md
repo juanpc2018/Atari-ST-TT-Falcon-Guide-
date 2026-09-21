@@ -163,10 +163,10 @@ GAL20V8QS-15QVC </br>
 other DIY [projects.](https://github.com/dh219) </br>
 
 ### Emulators </br>
-[SteemSSE](https://sourceforge.net/projects/steemsse/files/) </br>
+[SteemSSE v4.2.1](https://sourceforge.net/projects/steemsse/files/) </br>
 [HATARI v2.6.1](https://framagit.org/hatari/hatari/-/releases) </br>
 [Atari System Emulator v1.12](https://github.com/thebitculture/ase/releases) [v1.12 YT](https://www.youtube.com/watch?v=536zKFJO-GU) </br>
-[EmuTOS](https://emutos.sourceforge.io/) [v1.4](https://sourceforge.net/projects/emutos/files/emutos/) OpenSource binary compatible AtariTOS </br>
+[EmuTOS](https://emutos.sourceforge.io/) [v1.4](https://sourceforge.net/projects/emutos/files/emutos/) OpenSource binary compatible [Atari TOS](https://en.wikipedia.org/wiki/Atari_TOS) </br>
 
 -----------
 
