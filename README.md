@@ -160,8 +160,9 @@ GAL20V8QS-15QVC </br>
 
 ### Games
 [Atari Quake 1.03](https://github.com/mikrosk/quake/releases) </br>
-[Command & Conquer for Atari ST](https://indyjo.itch.io/commandconquer) [YT](https://www.youtube.com/watch?v=ASUxuEUPPxg) </br>
-other DIY [projects.](https://github.com/dh219) </br>
+[Command & Conquer for Atari ST](https://indyjo.itch.io/commandconquer) - [YT](https://www.youtube.com/watch?v=ASUxuEUPPxg) </br>
+[Official C&C SRC](https://github.com/electronicarts/CnC_Remastered_Collection) -> Fork: [Vainilla C&C](https://github.com/TheAssemblyArmada/Vanilla-Conquer) -> [Vainilla C&C Atari ST v0.3.6](https://github.com/indyjo/Vanilla-Conquer-Atari-ST) </br>
+other DIY [projects](https://github.com/dh219) </br>
 
 ### DEV Tools
 [m68k-atari-mint cross-tools](https://tho-otto.m68k.eu/crossmint.php) GCC 15.2.0 </br>
