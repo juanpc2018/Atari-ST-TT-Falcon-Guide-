@@ -158,9 +158,13 @@ Only pin compatible GAL's: </br>
 GAL16V8D </br>
 GAL20V8QS-15QVC </br>
 
-### [Atari Quake 1.03](https://github.com/mikrosk/quake/releases) </br>
-
+### Games
+[Atari Quake 1.03](https://github.com/mikrosk/quake/releases) </br>
+[Command & Conquer for Atari ST](https://indyjo.itch.io/commandconquer) [YT](https://www.youtube.com/watch?v=ASUxuEUPPxg) </br>
 other DIY [projects.](https://github.com/dh219) </br>
+
+### DEV Tools
+[m68k-atari-mint cross-tools](https://tho-otto.m68k.eu/crossmint.php) GCC 15.2.0 </br>
 
 ### Emulators </br>
 [SteemSSE v4.2.1](https://sourceforge.net/projects/steemsse/files/) </br>
